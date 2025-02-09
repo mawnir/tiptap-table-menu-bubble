@@ -30,7 +30,7 @@ export const useEditorConfig = (): Partial<EditorOptions> => {
       }),
     ],
     content: `
-      <h2>Welcome to the Tiptap Table Editor!</h2>
+      <h2>Welcome to the testing Table Editor!</h2>
       <p>Click the table icon (first icon) above to insert a new table and start editing.</p>
       <p>Double-click or select a cell to display the table's bubble menu.</p>
     `,
