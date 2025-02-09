@@ -1,4 +1,4 @@
-Double click or select a cell to show the table bubble menu.
+Double click or select.
 
 ## Features
 
